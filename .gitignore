@@ -1,0 +1,27 @@
+# Credentials — never commit
+.env
+.env.*
+
+# Python build/test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+
+# Machine-generated evaluation artifacts (regenerable)
+eval/logs/
+eval/cached_memories_*/
+
+# Non-redistributable data (see data/README.md)
+data/longmemeval*.json
+
+# Agent / tooling session state
+.agents/
+.workbuddy/
+.codex/
+
+# Miscellaneous
+*.log
+*.docx
+*.swp
+*.swo
