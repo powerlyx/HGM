@@ -7,7 +7,7 @@
 </p>
 
 This repository contains the official implementation of
-**HGM: Long-Term Memory Management for LLM Agents with Hierarchical Graph-Structured Memory**.
+**HGM: Hierarchical Graph-Structured Long-Term Memory Management for LLM Agents**.
 
 HGM manages long-term memory for LLM agents over long-horizon dialogues. Conversation
 histories are organized into hierarchical graph-structured memory across
@@ -189,7 +189,7 @@ If you find this work useful, please cite:
 
 ```bibtex
 @article{hgm2026,
-  title   = {HGM: Long-Term Memory Management for LLM Agents with Hierarchical Graph-Structured Memory},
+  title   = {HGM: HGM: Hierarchical Graph-Structured Long-Term Memory Management for LLM Agents},
   author  = {TODO},
   year    = {2026},
   note    = {to be updated upon publication}
