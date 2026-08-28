@@ -1,4 +1,13 @@
-# HGM
+<h1 align="center">
+  <img
+    src="https://img.icons8.com/external-flatarticons-blue-flatarticons/65/external-hierarchical-structure-web-hosting-flatarticons-blue-flatarticons.png"
+    width="55"
+    height="55"
+    alt="HGM"
+  />
+  <br>
+  HGM
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Paper&message=coming%20soon&color=blue" height="23">
